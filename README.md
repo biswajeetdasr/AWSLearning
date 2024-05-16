@@ -1,4 +1,4 @@
 # AWSLearning
 AWS Learning
 <br>
-Author - Biswajit Das
+Author - Biswajit
